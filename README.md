@@ -10,7 +10,7 @@ Jason M. Ward (jward@rand.org)
 Daniel Schwam (dschwam@rand.org)
 
 # Repository Description
-This GitHub repository contains data and code for replicating the results in RAND Research Report RR-A1362-1 (URL to be posted here soon).
+This GitHub repository contains data and code for replicating the results in RAND Research Report RR-A1362-1 (https://www.rand.org/pubs/research_reports/RRA1362-1.html).
 
 # User Notes
 The included code and data set were created using Stata 16 and 17. To enable replication by users of older versions 
