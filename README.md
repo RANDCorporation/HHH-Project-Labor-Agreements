@@ -51,6 +51,6 @@ The author recommends downloading the lean2 scheme package for displaying analyt
 # Suggested Citation (2021 report):
 Ward, Jason, Replication Code and Data for “The Effects of Project Labor Agreements on the Production of Affordable Housing: Evidence from Proposition HHH,” Santa Monica: RAND Corporation, 2021. 
 As of July 23, 2021: https://github.com/RANDCorporation/HHH-Project-Labor-Agreements
-# Suggested Citation (2021 report):
+# Suggested Citation (2024 report):
 Ward, Jason, Replication Code and Data for “Project Labor Agreements and Affordable Housing Production Costs in Los Angeles - Revisiting the Effects of the Proposition HHH Project Labor Agreement Using Cost Data from Completed Projects,” Santa Monica: RAND Corporation, 2024. 
 As of August 12, 2024: https://github.com/RANDCorporation/HHH-Project-Labor-Agreements
